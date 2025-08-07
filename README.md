@@ -1,6 +1,6 @@
-# PIP installation
+# pip installation
 
-> PIP install discord random
+> pip install discord random
 
 # Commands
 ```
