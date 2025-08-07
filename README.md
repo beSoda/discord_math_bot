@@ -1,7 +1,6 @@
 # PIP installation
 
-> PIP install discord
-> PIP install random
+> PIP install discord random
 
 # Commands
 
